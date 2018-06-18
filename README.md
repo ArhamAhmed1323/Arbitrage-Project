@@ -6,6 +6,10 @@ Group Members:
 2) FARAZ AGHA (15B-079-BS)
 3) FAIZAN ABBASI (15B-077-BS)
 
+# Inputs and Outputs
+
+There are a total of 12 inputs as there are 4 currencies and max of (N * (N - 1)) edges possible in directed graph.
+
 # What is Arbitrage?
 
 Arbitrage is an opportunity to make profits of the discrepancies in currency exchange rates by transforming them 
